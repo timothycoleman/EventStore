@@ -1,0 +1,20 @@
+// place your custom styles here
+// https://github.com/orgs/vuepress-theme-hope/discussions/3742
+
+// @use "@sass-palette/hope-config";
+//
+// @media (min-width: hope-config.$pc) {
+//   html {
+//     --content-width: calc(100vw - 40rem)!important;
+//   }
+// }
+
+
+.vp-nav-logo {
+    filter:
+        hue-rotate(-110deg)
+        saturate(50%)
+        brightness(75%)
+        contrast(160%)
+        drop-shadow(3px 3px 3px #00000088);
+}

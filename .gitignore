@@ -473,3 +473,8 @@ MigrationBackup/
 certs/
 /es-gencert-cli
 .temp/
+
+# vuepress
+**/.vuepress/.cache/
+**/.vuepress/.temp/
+**/.vuepress/dist/
