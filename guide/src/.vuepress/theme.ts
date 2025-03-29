@@ -14,12 +14,12 @@ export default hopeTheme({
   // white flashes while reloading in dark mode.
   hotReload: true,
 
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app", //qq
+  hostname: "https://kurrentdb-guide.pages.dev/",
 
   // plum by style in index.scss
   logo: "/assets/ouro.png",
 
-  repo: "https://github.com/kurrent-io/eventstore",
+  repo: "https://github.com/timothycoleman/eventstore",
 
   docsDir: "guide/src",
 
