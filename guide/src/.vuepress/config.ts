@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/", //qq
+  base: "/guide/", //qq
 
   lang: "en-US",
   title: "KurrentDB Contributors Guide",
